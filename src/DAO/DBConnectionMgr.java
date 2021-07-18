@@ -39,7 +39,7 @@ public class DBConnectionMgr {
     private String _driver = "com.mysql.cj.jdbc.Driver",
     _url = "jdbc:mysql://localhost:3306/happydb?serverTimezone=Asia/Seoul&useSSL=false",
     _user = "root",
-    _password = "1q2w3e4r5t";
+    _password = ;
     private boolean _traceOn = false;
     private boolean initialized = false;
     private int _openConnections = 10;
